@@ -10,7 +10,7 @@ window.App = Em.Application.create({
   }
 });
 
-
+//application controller
 App.ApplicationController = Em.ObjectController.extend({
   	persons :[
   		{name:'ganesh',address:'pune'},

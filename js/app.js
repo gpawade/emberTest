@@ -13,3 +13,5 @@ App.IndexRoute = Ember.Route.extend({
 });
 
 
+// Ember Sample
+
