@@ -1,0 +1,383 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ap",
+				"App"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"e",
+				"each	{{#each }} {{/each}}"
+			],
+			[
+				"input",
+				"input-group"
+			],
+			[
+				"todo",
+				"todos"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"bs3",
+				"bs3-input:submit	bs3-input-submit"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1193,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"view",
+				"Snippet: Ember.View.extend()"
+			],
+			[
+				"comp",
+				"Snippet: Ember.Component.extend()"
+			],
+			[
+				"each",
+				"Snippet: {{#each }} {{/each}}"
+			],
+			[
+				"rout",
+				"Snippet: Ember.Route.extend()"
+			],
+			[
+				"controller",
+				"Snippet: Ember.Controller.extend()"
+			],
+			[
+				"col",
+				"Snippet: bs3-col-3"
+			],
+			[
+				"ember",
+				"Snippet: Ember.Application.create()"
+			],
+			[
+				"hand",
+				"Snippet: text/x-handlebars script tag"
+			],
+			[
+				"javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"embe",
+				"Snippet: Ember.Controller.extend()"
+			],
+			[
+				"ember.a",
+				"Snippet: Ember.Application.create()"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"bs3-con",
+				"Snippet: bs3-container"
+			],
+			[
+				"bs3-n",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-container"
+			],
+			[
+				"h",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"han",
+				"Snippet: Ember.Handlebars.registerBoundHelper()"
+			],
+			[
+				"em",
+				"Snippet: Ember.Application.create()"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"scrip",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 183.0,
+		"history":
+		[
+			"CMD",
+			"OSX"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Site/ember/js/todoApp.js",
+		"/C/Users/gpawade/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/D/Site/ember/data/product.json",
+		"/C/Users/gpawade/AppData/Roaming/Sublime Text 3/Packages/JsFormat/Default (Windows).sublime-keymap",
+		"/C/Users/gpawade/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/gpawade/AppData/Roaming/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/D/Site/ember/firebasetest.html",
+		"/D/Site/ember/Embercomponent.html",
+		"/D/Site/ember/js/embercomponent.js",
+		"/D/Site/ember/js/testApp.js",
+		"/D/Site/ember/test2.html",
+		"/D/Site/ember/index.html",
+		"/C/Users/gpawade/AppData/Roaming/Sublime Text 3/Packages/Tag/Tag Package.sublime-settings",
+		"/C/Users/gpawade/AppData/Roaming/Sublime Text 3/Packages/User/Tag Package.sublime-settings",
+		"/D/Site/ember/js/libs/handlebars-1.1.2.js",
+		"/D/Site/ember/js/app.js",
+		"/C/Users/gpawade/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/gpawade/AppData/Roaming/Sublime Text 3/Packages/JSLint/Default.sublime-keymap",
+		"/C/Users/gpawade/AppData/Roaming/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+		"/C/Users/gpawade/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+		"/D/Site/ember/js/libs/bootstrap3.js",
+		"/D/Site/ember/css/bootstrap3.css",
+		"/C/Users/gpawade/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/gpawade/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/D/Site/ember/css/normalize.css",
+		"/D/Site/ember/embertest.sublime-project",
+		"/E/Project/Data/WorkModules/2014/Rovia V2/Baynote/Product Feed/Uploaded/8 july/Baynote Hotel Product Feed 8 July.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"');\n",
+			"></"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								800,
+								800
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 36.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "embertest.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Site\\ember\\embertest.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
